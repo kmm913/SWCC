@@ -26,7 +26,6 @@
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
-  --swCrawl: #e5b13a;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -8932,10 +8931,6 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-white-50 {
   color: rgba(255, 255, 255, 0.5) !important;
-}
-
-.text-swCrawl {
-  color: #e5b13a !important;
 }
 
 .text-hide {
