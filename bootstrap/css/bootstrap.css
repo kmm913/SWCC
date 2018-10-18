@@ -9096,7 +9096,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 /* Set the scrolling animation and position it */
 #content {
-  animation: scroll 100s linear 3s;
+  animation: scroll 120s linear 3s;
   position: absolute;
   top: 100%;
 }
