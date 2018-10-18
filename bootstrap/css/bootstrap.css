@@ -9034,6 +9034,14 @@ a.text-dark:hover, a.text-dark:focus {
 }
 /*# sourceMappingURL=bootstrap.css.map */
 
+/*CSS code for generating background stars randomly*/
+.star {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  background-color: white;
+}
+
 /*CSS code for the custom star wars logo/crawler*/
 /* Set the animation & hide the logo 
 .logo {    
